@@ -1,6 +1,6 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 title: "The data and code for the paper 'Orthogonal projections of hypercubes'"
-version: 1.0.1
+version: 1.0.2
 license: "BSD 3-Clause"
 type: software
 abstract: "Materials needed to reproduce the paper"
