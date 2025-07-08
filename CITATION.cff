@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "The data and code for the paper 'Orthogonal projections of hypercubes'"
+version: 1.0.6
+license: "BSD 3-Clause"
+type: software
+abstract: "Materials needed to reproduce the paper"
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Yoshiaki
+    family-names: Horiike
+    affiliation: "Nagoya University, University of Copenhagen"
+    orcid: "https://orcid.org/0009-0000-2010-2598
+  - given-names: Shin
+    family-names: Fujishiro
+    affiliation: "Kyoto University"
+    orcid: "https://orcid.org/0000-0002-0127-0761
+keywords:
+  - "dimensionality reduction
+  - "state transition diagram
+  - "energy landscape
