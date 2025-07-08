@@ -3,7 +3,7 @@
         {
             "name": "Horiike, Yoshiaki",
             "orcid": "0009-0000-2010-2598",
-            "affiliation": "Nagoya University",
+            "affiliation": "Nagoya University, University of Copenhagen",
             "type": "ProjectMember"
         }
     ],
@@ -16,7 +16,7 @@
         }
     ],
     "title": "The data and code for the paper 'Orthogonal projections of hypercubes'",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "access_right": "open",
     "related_identifiers": [
         {
