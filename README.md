@@ -1,7 +1,7 @@
 # code-hypercube-projection
 
-[![DOI](https://zenodo.org/badge/1015778637.svg)](https://zenodo.org/badge/latestdoi/1015778637)
-[![arXiv](https://img.shields.io/badge/arXiv-2501.10257-b31b1b.svg)](https://arxiv.org/abs/2501.10257)
+[![DOI](https://zenodo.org/badge/1015778637.svg)](https://doi.org/10.5281/zenodo.15838551)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.10257-b31b1b.svg)](https://doi.org/10.48550/arXiv.2501.10257)
 
 ## Overview
 
