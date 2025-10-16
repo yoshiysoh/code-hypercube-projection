@@ -7,7 +7,9 @@
 
 This repository contains the data and code associated with the paper:
 
-Yoshiaki Horiike & Shin Fujishiro, "Orthogonal projections of hypercubes", [arXiv:2501.10257](https://doi.org/10.48550/arXiv.2501.10257) (2025).
+Yoshiaki Horiike and Shin Fujishiro, Orthogonal projections of hypercubes, [Phys. Rev. E 112(4), 045304](https://doi.org/10.1103/v291-9hxy).
+
+See also [arXiv:2501.10257](https://doi.org/10.48550/arXiv.2501.10257) or [Handle: 2237/0002013547](https://hdl.handle.net/2237/0002013547).
 
 ## Requirements
 
